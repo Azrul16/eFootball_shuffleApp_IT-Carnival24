@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDodIPyzP09lDkT3K0AOJduZXkr7ezu3Ho',
-    appId: '1:379417075294:android:10eca017a22ca6fec4decf',
-    messagingSenderId: '379417075294',
-    projectId: 'efootball-suffle',
-    storageBucket: 'efootball-suffle.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 }
